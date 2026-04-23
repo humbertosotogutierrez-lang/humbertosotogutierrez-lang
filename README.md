@@ -7,5 +7,5 @@
 
 ## La utilidad de las herrarmientas desarrolladas en los modulos de este bootcamp como lo son las Inteligencias Artificiales, la creacion de automatizaciones en n8n y los aprendizajes que estamos desarrollando en con javascript, son de gran utilidad para mi, ya que me permiten desarrollarme mas profecionalmente y compartir con mis estudiantes nuevas herramientas y tecnologias.
 
-### mi contacto es [EMAIL-ADDRESS(humberto.soto.gutierrez@clases.edu.sv)].
+### mi contacto es humberto.soto.gutierrez@clases.edu.sv
 
